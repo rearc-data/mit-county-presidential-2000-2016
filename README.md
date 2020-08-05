@@ -2,7 +2,7 @@
     <img src="./rearc_logo_rgb.png" alt="Rearc Logo" title="Rearc Logo" height="52" />
 </a>
 
-County Presidential Election Returns 2000-2016 | Harvard Dataverse/MEDSL
+County Presidential Election Returns 2000-2016 | Harvard Dataverse / MEDSL
 =========================
 
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
