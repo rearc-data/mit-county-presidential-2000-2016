@@ -1,7 +1,7 @@
 County Presidential Election Returns 2000-2016 | Harvard Dataverse/MEDSL
 ========================= 
 
-The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [/github.com/rearc-data/mit-county-presidential-2000-2016](/github.com/rearc-data/mit-county-presidential-2000-2016).
+The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/mit-county-presidential-2000-2016](https://github.com/rearc-data/mit-county-presidential-2000-2016).
 
 ## Main Overview
 
