@@ -1,0 +1,1 @@
+This release contains information on the returns of presidential elections from 2000-2016. There's data for each county in the United States, how many votes were cast on a candidate who represtend their political party(i.e. Democrat, Republican, etc.), and total votes for each county.
