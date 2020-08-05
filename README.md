@@ -5,7 +5,7 @@
 County Presidential Election Returns 2000-2016 | Harvard Dataverse / MEDSL
 =========================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-2h5z442pxap6w](https://aws.amazon.com/marketplace/pp/prodview-2h5z442pxap6w).
 
 ## Main Overview
 
